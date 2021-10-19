@@ -109,7 +109,8 @@ Am Ende des Compiliervorganges entsteht daraus der sogenannte Maschinencode. Die
 
 **Auf welche konkreten Systeme schauen wir dabei insbesondere?**
 
-+ ATmega4808/4809
++ ATmega4808/4809   + Youtube – „How computers works“ [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 + ATmega32
 
 <!--
